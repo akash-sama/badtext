@@ -165,7 +165,7 @@ function App() {
           )}
         </header>
         <footer className="App-footer">
-          <p>&copy; 2024 Akash Rao Inc.</p>
+          <p>&copy; 2024 Made by Akash Rao Inc.</p>
         </footer>
       </div>
   );
