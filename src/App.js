@@ -63,7 +63,7 @@ function App() {
         })
         .catch(error => {
           console.error('Error:', error);
-          setResult('An error occurred.');
+          setResult('An error your limit is mostly run out, dont worry try later.');
           setLoading(false);
         });
   };
@@ -165,7 +165,7 @@ function App() {
           )}
         </header>
         <footer className="App-footer">
-          <p>&copy; 2024 Akashs Inc.</p>
+          <p>&copy; 2024 Akash Rao Inc.</p>
         </footer>
       </div>
   );
